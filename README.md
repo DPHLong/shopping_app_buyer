@@ -27,3 +27,13 @@ Client: Flutter, RiverPod, Google_maps, url_launcher...
 - EVERYTHING REAL TIME
 
 - Edit Profile and Sign Out
+
+# Usage
+
+- In this Repo there are only lib folder and pubspec.yaml, which contain the main source codes.
+
+- All 3 code bases - Seller, Buyer and Admin Panel - can work independently.
+
+- You need to add all 3 code bases in 1 Firebase Project, so that they can link to each other.
+
+- Please feel free to ask.
