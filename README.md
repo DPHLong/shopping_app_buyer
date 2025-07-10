@@ -8,7 +8,7 @@ This project is a part of a 3-in-1 Flutter shopping application, which includes 
 
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
-Client: Flutter, RiverPod, Google_maps, url_launcher...
+Client: Flutter, RiverPod, GetX, Google_maps, url_launcher...
 
 ## Features
 
